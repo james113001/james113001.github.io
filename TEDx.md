@@ -19,12 +19,12 @@ I vividly remember that the first meeting attracted about 30 people, which was m
     </div>
     <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="/assets/images/DSC_0434.jpg" style="width:100%">
+    <img src="/assets/images/DSC_0434.JPG" style="width:100%">
     <div class="text">Directing a meeting</div>
     </div>
     <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="/assets/images/DSC_0398.jpg" style="width:100%">
+    <img src="/assets/images/DSC_0398.JPG" style="width:100%">
     <div class="text">Directing a meeting</div>
     </div>
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
