@@ -5,7 +5,7 @@ author_profile: true
 
 # About Me
 
-I study biomedical engineering at the [University of Missouri-Columbia](https://missouri.edu/). My emphasis is in bioinformatics and pre-med, and coding for data analysis brings me pleasure, though coding this website was a fun challenge.
+I recently received a BS in biomedical engineering at the [University of Missouri-Columbia](https://missouri.edu/). My emphasis is in bioinformatics and pre-med, and coding for data analysis brings me pleasure, though coding this website was a fun challenge.
 
 The past two summers, I conducted research in two labs: Georgia Institute of Technology/Emory University School of Medicine and University of Missouri. My interests lie in leveraging data analytics for public health. 
 
