@@ -53,6 +53,8 @@ The podcasts were structured so that one team member would be the host asking th
 
 I am immensely proud of the team for undertaking a novel, challenging task in such short notice.
 
+Read the article about this here: [TEDxMU to delay event, air virtual panels on COVID-19 instead](https://www.columbiamissourian.com/news/covid19/tedxmu-to-delay-event-air-virtual-panels-on-covid-19-instead/article_3bbdd472-75d1-11ea-869e-67f3fec85a54.html)
+
 
 <iframe src="https://open.spotify.com/embed-podcast/show/5JcT5F6oWtsXHCYh7nFlSM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
