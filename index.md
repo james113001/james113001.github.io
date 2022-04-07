@@ -7,11 +7,11 @@ author_profile: true
 
 I am a MSc student at [Imperial College London](https://www.imperial.ac.uk/) studying Health Data Analytics and Machine Learning, and will complete the program in Sept. 2022. I recently received a BS in biomedical engineering at the [University of Missouri-Columbia](https://missouri.edu/), with emphases in bioinformatics and pre-med. Coding for data analysis brings me pleasure, though coding this website was a fun challenge.
 
-In two past summers, I conducted research in two labs: Georgia Institute of Technology/Emory University School of Medicine and University of Missouri. My interests lie in leveraging data analytics for public health. 
+The past two summers, I conducted research in two labs: Georgia Institute of Technology/Emory University School of Medicine and University of Missouri. My interests lie in leveraging data analytics for public health.
 
-With the growing prominence of informatics, I will use population health research to focus on the health of the nation’s low to middle income individuals, who suffer the most from healthcare access disparities. Furthermore, as an aspiring physician, I can also integrate my undergraduate education in bioinformatics with a future medical education to bridge the gap between the two fields. 
+With the growing prominence of informatics, my mission is to use population health research to focus on the health of the nation’s low to middle income individuals, who suffer the most from healthcare access disparities.
 
-Outside of academia, I enjoy hip-hop dancing which I did through a team at Mizzou, as well as TikTok where I have over 47k followers. Some of my most popular videos are related to vlogging about my experiences in London as an American and medicine, from MCAT mnemonics to medical education reform. I also enjoy playing tennis, reading, and sketching. Currently, I'm challenging myself to draw something every day of 2022 and I think this exemplifies my growth mindset.
+Outside of academia, I enjoy hip-hop dancing which I did through teams in both undergrad and graduate school. I also enjoy playing tennis, reading, and sketching.
 
 # Projects 
 Clinician Burnout Project:  
