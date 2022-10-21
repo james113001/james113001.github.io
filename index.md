@@ -14,7 +14,7 @@ My interests lie in leveraging data in any setting, within or beyond healthcare.
 When the laptop is closed, I am a content creator, tutor, and model. I apply these skills as the founding creator for [Imperial College's official Tikok](https://www.tiktok.com/@imperialcollege) and also my personal Tiktok (64.6k followers). I enjoy dancing which I did through teams in both undergrad and graduate school. I also make time for playing tennis and sketching. 
 
 # Projects 
-Competing Risks Analysis with Machine Learning (05/2022 - 09/2022):
+Competing Risks Analysis with Machine Learning (05/2022 - 09/2022):  
 This methodology study seeks to identify the relative performance of machine learning methods for competing risks analysis relative to the established Fine & Gray model and cause-specific hazards model. I found four open survival datasets in R to use, as well as synthesized a larger dataset to compare performance over dataset size. Additionally, I ran five total models on each dataset and scored their predictive performances with the c-index and Brier score.
 
 Clinician Burnout Project (06/2020 - 05/2021):  
