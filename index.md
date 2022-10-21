@@ -5,16 +5,19 @@ author_profile: true
 
 # About Me
 
-I am a MSc student at [Imperial College London](https://www.imperial.ac.uk/) studying Health Data Analytics and Machine Learning, and will complete the program in Sept. 2022. My thesis is in conjunction with AstraZeneca on investigating methodology for addressing competing risks in survival analysis. I earned my BS in biomedical engineering at the [University of Missouri-Columbia](https://missouri.edu/), with emphases in bioinformatics and pre-med. 
+I am a recent MSc graduate from [Imperial College London](https://www.imperial.ac.uk/) for Health Data Analytics and Machine Learning. My thesis was in conjunction with AstraZeneca on investigating machine learning methods for addressing competing risks in survival analysis. I earned my BS in biomedical engineering at the [University of Missouri-Columbia](https://missouri.edu/), with emphases in bioinformatics and pre-med. 
 
 In two past summers, I conducted research in two labs: Georgia Institute of Technology/Emory University School of Medicine and University of Missouri. 
 
 My interests lie in leveraging data in any setting, within or beyond healthcare. It is exciting to think about the endless ways I can apply my skillset to drive change in our Information Age!
 
-When the laptop is closed, I am a content creator. I apply these skills as the founding creator for [Imperial College's official Tikok](https://www.tiktok.com/@imperialcollege) and also my personal Tiktok (52.6k followers). I enjoy dancing which I did through teams in both undergrad and graduate school. I also enjoy playing tennis, modeling, and sketching. 
+When the laptop is closed, I am a content creator, tutor, and model. I apply these skills as the founding creator for [Imperial College's official Tikok](https://www.tiktok.com/@imperialcollege) and also my personal Tiktok (64.6k followers). I enjoy dancing which I did through teams in both undergrad and graduate school. I also make time for playing tennis and sketching. 
 
 # Projects 
-Clinician Burnout Project (06/2020- 05/2021):  
+Competing Risks Analysis with Machine Learning (05/2022 - 09/2022):
+This methodology study seeks to identify the relative performance of machine learning methods for competing risks analysis relative to the established Fine & Gray model and cause-specific hazards model. I found four open survival datasets in R to use, as well as synthesized a larger dataset to compare performance over dataset size. Additionally, I ran five total models on each dataset and scored their predictive performances with the c-index and Brier score.
+
+Clinician Burnout Project (06/2020 - 05/2021):  
 We hypothesize that Electronic Medical Record (EMR) use metrics by physician correlate to physician burnout risk and remodeling the EMR workflow with be an interventional method to reduce burnout risk factors. I cleaned the raw data of over 5000 clinicians and utilized descriptive statistics, kmeans, and PCA clustering as part of exploratory analysis.
 
 SemNet (05/2019 - 08/2019):  
