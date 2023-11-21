@@ -5,13 +5,13 @@ author_profile: true
 
 # About Me
 
-I am a recent MSc graduate from [Imperial College London](https://www.imperial.ac.uk/) for Health Data Analytics and Machine Learning. My thesis was in conjunction with AstraZeneca on investigating machine learning methods for addressing competing risks in survival analysis. I earned my BS in biomedical engineering at the [University of Missouri-Columbia](https://missouri.edu/), with emphases in bioinformatics and pre-med. 
+I am a data analyst for Lambeth Council and a recent MSc graduate from [Imperial College London](https://www.imperial.ac.uk/) for Health Data Analytics and Machine Learning. My thesis was in conjunction with AstraZeneca on investigating machine learning methods for addressing competing risks in survival analysis. Prior to that, I earned my BS in biomedical engineering at the [University of Missouri-Columbia](https://missouri.edu/), with emphases in bioinformatics and pre-med. 
 
-In two past summers, I conducted research in two labs: Georgia Institute of Technology/Emory University School of Medicine and University of Missouri. 
+In two summers of my undergrad, I conducted research in two labs: Georgia Institute of Technology/Emory University School of Medicine and University of Missouri. 
 
 My interests lie in leveraging data in any setting, within or beyond healthcare. It is exciting to think about the endless ways I can apply my skillset to drive change in our Information Age!
 
-When the laptop is closed, I am a content creator, tutor, and model. I apply these skills as the founding creator for [Imperial College's official Tikok](https://www.tiktok.com/@imperialcollege) and also my personal Tiktok (64.6k followers). I enjoy dancing which I did through teams in both undergrad and graduate school. I also make time for playing tennis and sketching. 
+When the laptop is closed, I am a content creator, tutor, and model. I applied these skills as the founding creator for [Imperial College's official Tikok](https://www.tiktok.com/@imperialcollege) and also my personal Tiktok. I enjoy dancing which I did through teams in both undergrad and graduate school. I also make time for playing tennis and sketching. 
 
 # Projects 
 Competing Risks Analysis with Machine Learning (05/2022 - 09/2022):  
@@ -22,6 +22,9 @@ We hypothesize that Electronic Medical Record (EMR) use metrics by physician cor
 
 SemNet (05/2019 - 08/2019):  
 The objective of this study is to identify and rank associative factors related to angiogenesis, fibrosis, and EF using an innovative literature mining approach, SemNet. I interpreted the SemNet's network analysis data and visualized node connectivity for presentation. I also drafted the first 20 pages of the project's manuscript, which is still ongoing by the team. It is soon to be submitted for publishing with my name as an author.
+
+# Publications
+Kartchner D, McCoy K, Dubey J, Zhang D, Zheng K, Umrani R, Kim JJ, [Mitchell CS](https://scholar.google.com/citations?user=FpxAYrgAAAAJ&hl=en&oi=ao). Literature-Based Discovery to Elucidate the Biological Links between Resistant Hypertension and COVID-19. Biology. 2023; 12(9):1269. [doi:10.3390](https://doi.org/10.3390/biology12091269)
 
 # Presentations
 Kim, J., [Tonellato, P. J.](https://scholar.google.com/citations?user=G56I1_sAAAAJ&hl=en&oi=ao), & Wilkinson, K. (Nov. 2020). A Model of Physician Clinical Burnout based on Electronic Medical Record Use Metrics. [e-Poster](https://cattendee.abstractsonline.com/meeting/9244/Presentation/2962) presentation at Annual Biomedical Research Conference for Minority Students ([ABRCMS](https://www.abrcms.org/)) The Virtual Experience. 
