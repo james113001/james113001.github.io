@@ -96,7 +96,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "James J Kim Jr"
+  name             : "James J Kim"
   avatar           : "/assets/images/profilepic.jpg" # path of avatar image, e.g. "/assets/images/profilepic.jpg"
   bio              : "My life and career"
   location         : "London, UK"
