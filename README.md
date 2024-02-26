@@ -1,3 +1,3 @@
 # mywebsite
 
-[jamesk.me](www.jamesk.me)
+[jamesk.me](http://www.jamesk.me)
