@@ -5,20 +5,30 @@ author_profile: true
 
 # About Me
 
-I am a data analyst for Lambeth Council and a recent MSc graduate from [Imperial College London](https://www.imperial.ac.uk/) for Health Data Analytics and Machine Learning. My thesis was in conjunction with AstraZeneca on investigating machine learning methods for addressing competing risks in survival analysis. Prior to that, I earned my BS in biomedical engineering at the [University of Missouri-Columbia](https://missouri.edu/), with emphases in bioinformatics and pre-med. 
+I am a data analyst for Lambeth Council and a MSc graduate from [Imperial College London](https://www.imperial.ac.uk/) for Health Data Analytics and Machine Learning. My thesis was in conjunction with AstraZeneca on investigating machine learning methods for addressing competing risks in survival analysis. Prior to that, I earned my BS in biomedical engineering at the [University of Missouri-Columbia](https://missouri.edu/), with emphases in bioinformatics and pre-med. 
 
 In two summers of my undergrad, I conducted research in two labs: Georgia Institute of Technology/Emory University School of Medicine and University of Missouri. 
 
 My interests lie in leveraging data in any setting, within or beyond healthcare. It is exciting to think about the endless ways I can apply my skillset to drive change in our Information Age!
 
-When the laptop is closed, I am a content creator, tutor, and model. I applied these skills as the founding creator for [Imperial College's official Tikok](https://www.tiktok.com/@imperialcollege) and also my personal Tiktok. I enjoy dancing which I did through teams in both undergrad and graduate school. I also make time for playing tennis and sketching. 
+When the laptop is closed, I am a traveller, tennis player, tutor, and model. I've been to 25 countries and it has inspired me to pick up Spanish and German. I hope to keep travel as a focal aspect of my life! :)
 
 # Projects 
+AIMO LLM (05/2024 - 06/2024):
+As a team of 4, we created a multi-agent model using open-source LLMs (BERT, DeepSeekMath, OpenCodeInterpreter) and Autogen in an attempt to outperform Math Olympiad gold-medalists on a set of 50 math competition questions. We prompted chain-of-thought communication between models, which improved performance.
+[Repo](https://github.com/james113001/homeworkmachine)
+
 Competing Risks Analysis with Machine Learning (05/2022 - 09/2022):  
 This methodology study seeks to identify the relative performance of machine learning methods for competing risks analysis relative to the established Fine & Gray model and cause-specific hazards model. I found four open survival datasets in R to use, as well as synthesized a larger dataset to compare performance over dataset size. Additionally, I ran five total models on each dataset and scored their predictive performances with the c-index and Brier score.
+[Repo](https://github.com/james113001/Competing-Risks-Thesis)
+
+ClimateHack: Predicting Geospatial Images (11/2021 - 03/2022):
+I produced top-scoring results from Imperial College with mean absolute error of 0.69 by applying Optical Flow and convolutional neural network-based models in Python. I optimised satellite image sampling by utilising geocoordinates to calculate solar position using pvlib package. I also leveraged dataloader and cloud computing to train over 260 GB of EUMETSAT satellite data.
+[Repo](https://github.com/james113001/ClimateHack-Model)
 
 Clinician Burnout Project (06/2020 - 05/2021):  
 We hypothesize that Electronic Medical Record (EMR) use metrics by physician correlate to physician burnout risk and remodeling the EMR workflow with be an interventional method to reduce burnout risk factors. I cleaned the raw data of over 5000 clinicians and utilized descriptive statistics, kmeans, and PCA clustering as part of exploratory analysis.
+[Repo](https://github.com/james113001/Clinician-Burnout-Thesis)
 
 SemNet (05/2019 - 08/2019):  
 The objective of this study is to identify and rank associative factors related to angiogenesis, fibrosis, and EF using an innovative literature mining approach, SemNet. I interpreted the SemNet's network analysis data and visualized node connectivity for presentation. I also drafted the first 20 pages of the project's manuscript, which is still ongoing by the team. It is soon to be submitted for publishing with my name as an author.
